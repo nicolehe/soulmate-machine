@@ -1,0 +1,64 @@
+#h1 {
+  font-family: "Arvo";
+  color: #17B890;
+  font-size: 25pt;
+  padding: 15px;
+  margin: 10px 290px;
+}
+
+#question {
+  font-family: "Arvo";
+  color: #247BA0;
+  font-size: 11pt;
+  padding: 5px;
+  margin: 10px 50px 10px 300px;
+}
+
+#input {
+  margin: 0px 0px 0px 300px;
+}
+
+#image {
+  margin: 10px 200px;
+  border: 6px solid #17B890;
+}
+
+#button {
+  font-family: "Arvo";
+  background-color: white;
+  color: #247BA0;
+  font-size: 10pt;
+  padding: 5px;
+  margin: 10px 50px 10px 300px;
+}
+
+#name {
+  margin: 10px 200px;
+  font-family: "Arvo";
+  color: #247BA0;
+  font-size: 20pt;
+}
+
+#congrats {
+  margin: 100px 200px;
+  font-family: "Arvo";
+  color: #247BA0;
+  font-size: 15pt;
+}
+
+#text {
+  font-family: "Arvo";
+  text-height: 13px;
+  color: #247BA0;
+  font-size: 10pt;
+  width: 400px;
+  padding: 5px;
+}
+
+#links {
+  text-align: center;
+  font-family: "Arvo";
+  color: #EE4266;
+  font-size: 15pt;
+  margin: 30px 200px;
+}
